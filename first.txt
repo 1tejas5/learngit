@@ -1,3 +1,6 @@
 This is our first git usage
 skipping the staging.
-git diff
+git diff ljkjlkj
+lkjlkjssf
+sljkjf
+jkskljf
